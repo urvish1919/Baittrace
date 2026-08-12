@@ -6,6 +6,8 @@ frontend/dist/
 frontend/.env
 frontend/.env.local
 var/log/
+!var/log/cowrie/
+!var/log/cowrie/cowrie.json
 var/lib/
 var/run/
 data/
