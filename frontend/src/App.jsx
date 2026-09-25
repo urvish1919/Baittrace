@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import "./App.css";
+import AttackMap from "./AttackMap.jsx";
 
 const API = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
 
@@ -223,6 +224,8 @@ function App() {
           />
         )}
 
+        {page === "Attack Map" && <AttackMap />}
+
         {page === "Commands" && (
           <CommandsPage
             commands={commands}
@@ -273,6 +276,10 @@ function Sidebar({
     {
       name: "Attackers",
       icon: "◎",
+    },
+    {
+      name: "Attack Map",
+      icon: "🌐",
     },
     {
       name: "Commands",
@@ -364,6 +371,9 @@ function Header({
 
     "Event Stream":
       "Monitor raw telemetry captured from the BaitTrace honeypot sensor.",
+
+    "Attack Map":
+      "Live geographic view of every attacker IP captured by the sensor.",
   };
 
   return (
